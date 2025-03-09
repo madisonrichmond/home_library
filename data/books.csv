@@ -1,0 +1,11 @@
+id,title,author,genre,checked_out_by,due_date
+1,1984,George Orwell,Dystopian,None,None
+2,Brave New World,Aldous Huxley,Sci-Fi,None,None
+3,To Kill a Mockingbird,Harper Lee,Classic,None,None
+4,The Great Gatsby,F. Scott Fitzgerald,Classic,None,None
+5,Dune,Frank Herbert,Science Fiction,None,None
+6,The Catcher in the Rye,J.D. Salinger,Classic,None,None
+7,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,None,None
+8,The Hobbit,J.R.R. Tolkien,Fantasy,None,None
+9,The Fellowship of the Ring,J.R.R. Tolkien,Fantasy,None,None
+10,Fahrenheit 451,Ray Bradbury,Dystopian,None,None
